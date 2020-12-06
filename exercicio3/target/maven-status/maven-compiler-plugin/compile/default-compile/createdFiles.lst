@@ -1,0 +1,7 @@
+com\alcebiades\composite\Componente.class
+com\alcebiades\builder\ComputadorDomesticoBuilder.class
+com\alcebiades\principal\Principal.class
+com\alcebiades\composite\Parte.class
+com\alcebiades\builder\Builder.class
+com\alcebiades\composite\Computador.class
+com\alcebiades\builder\Diretor.class
